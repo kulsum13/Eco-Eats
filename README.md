@@ -1,13 +1,10 @@
 # ♻ Eco-Eats 
 A Front End Web Development  "Food waste awareness" platform   designed to educate and empower users to  take action against food waste. The website has many features that help users better understand their  personal impact, such as tools for calculating food waste on an individual and family level.
 <br>
-<div>
-  <img width="50%" src="[https://i.imgur.com/8BgVXcY.png](https://github.com/user-attachments/assets/880479fe-4032-4e78-bfd6-655047fb403a)" alt="logo" title="logo">
 </div>
 <br>
 #Demo<br>
 👉 [https://dancing-pavlova-2b28a9.netlify.app/]
-![homepage](https://github.com/user-attachments/assets/c2ec4a63-c28f-472d-8d19-af66fbba9178)
 
 # 📌 Mind Map 
 <img width="547" alt="Mind Map" src="https://github.com/user-attachments/assets/9280b1a0-3033-4cd4-af44-50feb2c0dec7"> <br>
