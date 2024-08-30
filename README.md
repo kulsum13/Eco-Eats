@@ -4,8 +4,7 @@ A Front End Web Development  "Food waste awareness" platform   designed to educa
 #Languages
 1. HTML%
 2. CSS
-3. JavaScript
-4. <br>
+3. JavaScript <br>
 
 # ♻ Demo
 👉 [https://dancing-pavlova-2b28a9.netlify.app/]
